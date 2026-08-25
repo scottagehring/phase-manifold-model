@@ -10,7 +10,7 @@ Before → During → After
 The current formulation develops these ideas through FTUs, traversal rails, record Φ, depth δ, gravitational coupling, and recovery of known physical behavior.
 
 Current Version
-PMM 2.7.0 — Read the paper (Markdown) · Download PDF
+**PMM 2.7.0** — [Read the paper (Markdown)](./PMM2_7_0-LaTeX-v7.md) · [Download PDF](./PMM2_7_0-LaTeX-v7.pdf)
 
 Core Areas
 Angular time

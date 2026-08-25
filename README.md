@@ -25,7 +25,9 @@ Repository Contents
 This repository contains the current PMM formulation, equations, figures, tests, references, and previous versions.
 
 Author
-Scott Gehring ORCID: 0009-0007-6351-637X scott-gehring.com
+Scott Gehring ORCID: 0009-0007-6351-637X
+[Scott Gehring Physics](https://scott-gehring.com/physics/)
+[Phase Manifold Model](https://medium.com/phase-manifold-model)
 
 Citation
 Gehring, S. (2026). Phase Manifold Model — First Principles and Mathematics (Version 2.7.0). https://github.com//

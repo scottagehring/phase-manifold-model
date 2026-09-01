@@ -10,7 +10,8 @@ Before → During → After
 The current formulation develops these ideas through FTUs, traversal rails, record Φ, depth δ, gravitational coupling, and recovery of known physical behavior.
 
 ## Current Version
-**PMM 2.8.8** — [Read the paper (Markdown)](./PMM2_8_8-LaTeX-v8.md) · [Download PDF](./PMM2_8_8-LaTeX-v8.pdf)
+
+**PMM 2.9.8** — [Release Page](https://github.com/scottagehring/phase-manifold-model/releases/tag/v2.9.8) · [Read the paper (Markdown)](https://github.com/scottagehring/phase-manifold-model/releases/download/v2.9.8/PMM2_9_8-LaTeX-v1.md) · [Download PDF](https://github.com/scottagehring/phase-manifold-model/releases/download/v2.9.8/PMM2_9_8-LaTeX-v1.pdf)
 
 ## Core Areas
 

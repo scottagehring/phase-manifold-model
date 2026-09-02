@@ -1,37 +1,52 @@
-## Phase Manifold Model
-A candidate framework deriving gravity, space, and time from a single relational primitive.
+# Phase Manifold Model
 
-The Phase Manifold Model (PMM) explores the possibility that time is angular rather than linear, space is associated with the During phase of an event, and gravitational behavior is linked to persistent record.
+A candidate framework for deriving gravity, space, time, and information from a relational event primitive.
 
-PMM describes events through three relations:
+The Phase Manifold Model (PMM) proposes that time is angular, space is realized during an event, and depth is generated relationally through contact between Field Transition Units.
 
-Before → During → After
+PMM describes physical events through three phases:
 
-The current formulation develops these ideas through FTUs, traversal rails, record Φ, depth δ, gravitational coupling, and recovery of known physical behavior.
+**Before → During → After**
+
+The current formulation develops this event process through FTUs, relational rails, generated depth, persistent record Φ, gravitational bond coupling, and recovery tests for established physics.
 
 ## Current Version
 
-**PMM 2.9.8** — [Release Page](https://github.com/scottagehring/phase-manifold-model/releases/tag/v2.9.8) · [Read the paper (Markdown)](./PMM2_9_8.md) · [Download PDF](https://github.com/scottagehring/phase-manifold-model/releases/download/v2.9.8/PMM2_9_8-LaTeX-v1.pdf)
+**PMM 3.1.3** — [Release Page](https://github.com/scottagehring/phase-manifold-model/releases/tag/v3.1.3) · [Read the paper](./PMM3_1_3.md) · [Download PDF](https://github.com/scottagehring/phase-manifold-model/releases/download/v3.1.3/PMM3_1_3-LaTeX-v1.pdf)
+
+## Core Formulation
+
+**Time is angular. Space is emergent. Depth is different.**
+
+**Fₜᵤ = B ∘ D ∘ A**
+
+**c⁰ → c¹ → c² → c³**
 
 ## Core Areas
 
-- Angular time
-- Event formation
-- Emergent space
-- Information persistence
-- Depth δ
-- Gravity from accumulated record Φ
-- GR and weak-field recovery
-- Testable predictions and falsification
+* Angular time
+* Event formation
+* Relational contact
+* Emergent space
+* Generated depth
+* Persistent information record Φ
+* Inter-FTU gravitational coupling
+* Quantum-mechanical recovery
+* Special and General Relativity recovery
+* Information-theory recovery
+* Predictions and falsification criteria
 
 ## Repository Contents
-This repository contains the current PMM formulation, equations, figures, tests, references, and previous versions.
+
+This repository contains the current PMM paper, equations, figures, recovery tests, references, release history, and archived editions.
 
 ## Author
-Scott Gehring ORCID: 0009-0007-6351-637X
-[Scott Gehring Physics](https://scott-gehring.com/physics/)  · 
-[Phase Manifold Model](https://medium.com/phase-manifold-model)
-[Ask the Phase Manifold Model GPT](https://chatgpt.com/g/g-6a626ae1de808191af1eb15587dba424-phase-manifold-model-pmm)
+
+**Scott Gehring**
+[ORCID: 0009-0007-6351-637X](https://orcid.org/0009-0007-6351-637X)
+
+[Scott Gehring Physics](https://scott-gehring.com/physics/) · [Phase Manifold Model on Medium](https://medium.com/phase-manifold-model) · [Ask the PMM GPT](https://chatgpt.com/g/g-6a626ae1de808191af1eb15587dba424-phase-manifold-model-pmm)
 
 ## Citation
-Gehring, S. (2026). Phase Manifold Model — First Principles and Mathematics (Version 2.7.0). https://github.com//
+
+Gehring, S. (2026). *Phase Manifold Model — First Principles and Mathematics* (Version 3.1.3). GitHub. https://github.com/scottagehring/phase-manifold-model/releases/tag/v3.1.3

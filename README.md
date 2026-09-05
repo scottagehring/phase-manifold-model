@@ -12,7 +12,7 @@ The current formulation develops this event process through FTUs, relational rai
 
 ## Current Version
 
-**PMM 3.1.3** — [Release Page](https://github.com/scottagehring/phase-manifold-model/releases/tag/v3.1.3) · [Read the paper](./PMM3_1_3.md) · [Download PDF](https://github.com/scottagehring/phase-manifold-model/releases/download/v3.1.3/PMM3_1_3-LaTeX.pdf)
+**PMM 3.1.9** — [Release Page](https://github.com/scottagehring/phase-manifold-model/releases/tag/v3.1.9) · [Read the paper](./PMM3_1_9.md) · [Download PDF](https://github.com/scottagehring/phase-manifold-model/releases/download/v3.1.9/PMM3_1_9-LaTeX-v1.pdf)
 
 ## Core Formulation
 
@@ -46,7 +46,3 @@ This repository contains the current PMM paper, equations, figures, recovery tes
 [ORCID: 0009-0007-6351-637X](https://orcid.org/0009-0007-6351-637X)
 
 [Scott Gehring Physics](https://scott-gehring.com/physics/) · [Phase Manifold Model on Medium](https://medium.com/phase-manifold-model) · [Ask the PMM GPT](https://chatgpt.com/g/g-6a626ae1de808191af1eb15587dba424-phase-manifold-model-pmm)
-
-## Citation
-
-Gehring, S. (2026). *Phase Manifold Model — First Principles and Mathematics* (Version 3.1.3). GitHub. https://github.com/scottagehring/phase-manifold-model/releases/tag/v3.1.3

@@ -12,7 +12,7 @@ The current formulation develops this event process through FTUs, relational rai
 
 ## Current Version
 
-**PMM 3.2.5** — [Release Page](https://github.com/scottagehring/phase-manifold-model/releases/tag/v3.2.5) · [Read the paper](./PMM3_2_5.md) · [Download PDF](https://github.com/scottagehring/phase-manifold-model/releases/download/v3.2.5/PMM3_2_5-LaTeX-v1.pdf)
+**PMM 3.2.9** — [Release Page](https://github.com/scottagehring/phase-manifold-model/releases/tag/v3.2.9) · [Read the paper](./PMM3_2_9.md) · [Download PDF](https://github.com/scottagehring/phase-manifold-model/releases/download/v3.2.9/PMM3_2_9-LaTeX.pdf)
 
 ## Core Formulation
 

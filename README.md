@@ -12,7 +12,7 @@ The current formulation develops this event process through FTUs, relational rai
 
 ## Current Version
 
-**PMM 3.2.9** — [Release Page](https://github.com/scottagehring/phase-manifold-model/releases/tag/v3.2.9) · [Read the paper](./PMM3_2_9.md) · [Download PDF](https://github.com/scottagehring/phase-manifold-model/releases/download/v3.2.9/PMM3_2_9-LaTeX.pdf)
+**PMM 3.3.2** — [Release Page](https://github.com/scottagehring/phase-manifold-model/releases/tag/v3.3.2) · [Read the paper](./PMM3_3_2.md) · [Download PDF](https://github.com/scottagehring/phase-manifold-model/releases/download/v3.3.2/PMM3_3_2-LaTeX.pdf)
 
 ## Core Formulation
 
@@ -30,6 +30,7 @@ The current formulation develops this event process through FTUs, relational rai
 * During-phase bundle geometry
 * Emergent space
 * Generated depth
+* Contact Dynamics
 * FTU frame geometry
 * Persistent information record Φ
 * Inter-FTU gravitational coupling

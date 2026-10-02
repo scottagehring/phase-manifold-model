@@ -2,21 +2,21 @@
 
 > **Time is angular. Space is generated in realization. Depth is different.**
 
-The **Phase Manifold Model (PMM)** describes one physical event as a transition from Before (B), through During (D), into After (A). One complete event is a **Field Transition Unit (FTU)**. Version 3.6.0 places an exterior-grade enclosure construction, normalized closure coordinate, and action-locked completion rule at the core of that event architecture.
+The **Phase Manifold Model (PMM)** describes one physical event as a transition from Before (B), through During (D), into After (A). One complete event is a **Field Transition Unit (FTU)**. Version 3.7.1 organizes the theory into complementary single-FTU and multi-FTU vantages and develops the A-side record and relational clock-gravity architecture.
 
 ## Current release
 
 | Item | Details |
 |---|---|
-| Version | **3.6.0** |
-| Core revision | **v32** |
-| Release date | **September 26, 2026** |
-| Previous published release | **3.4.0** |
+| Version | **3.7.1** |
+| Core revision | **v62** |
+| Release date | **September 30, 2026** |
+| Previous published release | **3.6.0** |
 | Author | **Scott Gehring**, Independent Researcher |
 | ORCID | [0009-0007-6351-637X](https://orcid.org/0009-0007-6351-637X) |
 | License | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
 
-[View the v3.6.0 release](https://github.com/scottagehring/phase-manifold-model/releases/tag/v3.6.0) · [Read the canonical manuscript](./PMM3_6_0.md) · [Download the technical PDF](https://github.com/scottagehring/phase-manifold-model/releases/download/v3.6.0/PMM3_6_0-LaTeX.pdf)
+[View the v3.7.1 release](https://github.com/scottagehring/phase-manifold-model/releases/tag/v3.7.1) · [Read the canonical manuscript](./PMM3_7_1.md) · [Download the technical PDF](https://github.com/scottagehring/phase-manifold-model/releases/download/v3.7.1/PMM3_7_1.pdf)
 
 ## Core formulation
 
@@ -24,39 +24,35 @@ The **Phase Manifold Model (PMM)** describes one physical event as a transition 
 Before → During → After
 Fₜᵤ = B ∘ D ∘ A
 c⁰ → c¹ → c² → c³
-Λ⁰ → Λ¹ → Λ² → Λ³
 ```
 
-- **Before (B):** pre-geometric possibility.
-- **During (D):** active contact and generated geometry.
-- **After (A):** completed persistent record.
+- **Before (B):** pre-spatial possibility.
+- **During (D):** active realization and spatial geometry.
+- **After (A):** post-spatial transcription and persistent record.
 
-The normalized coordinate q carries the realized branch from entry at q = 0 to completed enclosure at q = 1. Cubic coefficients W₀ through W₃ distribute the four exterior grades. For timelike D, the Action-Locked Geodesic Principle gives a minimum uninterrupted completion action of πℏ.
+The single-FTU vantage describes creases, c-order, action, and internal event geometry. The multi-FTU vantage describes accumulated record Φ, normalized D-clock response κ, relational potential φ, and gravity through the Clock Flux structure.
 
 ## Core areas
 
-- Event architecture and FTU algebra
-- Minimum enclosure and exterior grades
-- Closure coordinate and cubic grade weights
-- Contact actualization and candidate C₃ persistence
-- Angular action and completion crossing
-- Generated relational depth
-- Persistent A record and history field Φ
-- Quantum, relativistic, information, and gravity recoveries
-- Recovery validation and future work
+- B → D → A event architecture and c-order ladder
+- Creases, angular action, and two-vantage D geometry
+- Expansion/contraction, closure spread, and the space window
+- D → A phase-frequency continuity and A-side information
+- Persistent record Rᴬ and accumulated history Φ
+- Relational D-clock response κ and potential φ
+- Record Influence Continuity and discrete Clock Flux
+- Newtonian normalization and explicit open-derivation boundary
 
 ## Release package
 
 | File | Purpose |
 |---|---|
-| [`PMM3_6_0.md`](./PMM3_6_0.md) | Canonical manuscript |
-| [`PMM3_6_0-LaTeX.md`](./PMM3_6_0-LaTeX.md) | Byte-identical compatibility mirror of the canonical manuscript retained for the publication workflow |
-| [`PMM3_6_0-LaTeX.pdf`](./PMM3_6_0-LaTeX.pdf) | Technical PDF with integrated contents and bookmarks |
-| [`PMM3_6_0_RELEASE_NOTES.md`](./PMM3_6_0_RELEASE_NOTES.md) | Release notes and package metadata |
-| [`PMM_First_Principles_Medium_3_6_0.html`](./PMM_First_Principles_Medium_3_6_0.html) | Medium paste-ready edition |
-| [`PMM_First_Principles_Zenodo_3_6_0.pdf`](./PMM_First_Principles_Zenodo_3_6_0.pdf) | Short-form Zenodo paper |
-| [`GPTRules.md`](./GPTRules.md) | PMM guide configuration |
-| [`SHA256SUMS_3_6_0.txt`](./SHA256SUMS_3_6_0.txt) | SHA-256 checksums for all eight payload files |
+| [`PMM3_7_1.md`](./PMM3_7_1.md) | Canonical manuscript |
+| [`PMM3_7_1.pdf`](./PMM3_7_1.pdf) | Technical PDF compiled from the LaTeX source, with integrated contents and bookmarks |
+| [`PMM_First_Principles_3_7_1.html`](./PMM_First_Principles_3_7_1.html) | Medium paste-ready edition |
+| [`CHANGELOG.md`](./CHANGELOG.md) | Major changes from v3.6.0 to v3.7.1 |
+| [`ROADMAP.md`](./ROADMAP.md) | Forward research priorities and open derivations |
+
 
 ## Links
 

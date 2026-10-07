@@ -16,7 +16,7 @@ The **Phase Manifold Model (PMM)** describes one physical event as a transition 
 | ORCID | [0009-0007-6351-637X](https://orcid.org/0009-0007-6351-637X) |
 | License | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
 
-[Read the canonical manuscript](./PMM3_7_3.md) · [Download the technical PDF](./PMM3_7_3.pdf)
+[Read the canonical manuscript](./PMM3_7_3.md) · [Download the technical PDF](./PMM3_7_3.pdf)  · [Read the short first principles summary](./PMM_First_Principles_3_7_3.md)
 
 ## Core formulation
 

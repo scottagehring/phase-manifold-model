@@ -1,22 +1,22 @@
 # Phase Manifold Model
 
-> **Time is angular. Space is generated in realization. Depth is different.**
+> **Time is angular. Space is emergent relational motion. Depth is different. c is stillness.**
 
-The **Phase Manifold Model (PMM)** describes one physical event as a transition from Before (B), through During (D), into After (A). One complete event is a **Field Transition Unit (FTU)**. Version 3.7.1 organizes the theory into complementary single-FTU and multi-FTU vantages and develops the A-side record and relational clock-gravity architecture.
+The **Phase Manifold Model (PMM)** describes one physical event as a transition from Before (B), through During (D), into After (A). One complete event is a **Field Transition Unit (FTU)**. Version 3.7.3 organizes the theory into complementary single-FTU and multi-FTU vantages and develops the A-side record and relational clock-gravity architecture.
 
 ## Current release
 
 | Item | Details |
 |---|---|
-| Version | **3.7.1** |
-| Core revision | **v62** |
-| Release date | **September 30, 2026** |
-| Previous published release | **3.6.0** |
+| Version | **3.7.3** |
+| Core revision | **v71.27** |
+| Release date | **October 7, 2026** |
+| Previous published release | **3.7.1** |
 | Author | **Scott Gehring**, Independent Researcher |
 | ORCID | [0009-0007-6351-637X](https://orcid.org/0009-0007-6351-637X) |
 | License | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
 
-[View the v3.7.1 release](https://github.com/scottagehring/phase-manifold-model/releases/tag/v3.7.1) · [Read the canonical manuscript](./PMM3_7_1.md) · [Download the technical PDF](https://github.com/scottagehring/phase-manifold-model/releases/download/v3.7.1/PMM3_7_1.pdf)
+[Read the canonical manuscript](./PMM3_7_3.md) · [Download the technical PDF](./PMM3_7_3.pdf)
 
 ## Core formulation
 
@@ -35,11 +35,12 @@ The single-FTU vantage describes creases, c-order, action, and internal event ge
 ## Core areas
 
 - B → D → A event architecture and c-order ladder
-- Creases, angular action, and two-vantage D geometry
-- Expansion/contraction, closure spread, and the space window
+- Creases, angular action, and four-mode two-vantage D geometry
+- Expansion/contraction, terminal vantage lock, closure spread, and the space window
 - D → A phase-frequency continuity and A-side information
-- Persistent record Rᴬ and accumulated history Φ
-- Relational D-clock response κ and potential φ
+- Two endpoint records sharing one event identity, and accumulated history Φ
+- Comparison-time D-clock response κ and potential φ
+- Mₒₚ relational motion and conditional spatial-gravity correspondence
 - Record Influence Continuity and discrete Clock Flux
 - Newtonian normalization and explicit open-derivation boundary
 
@@ -47,13 +48,16 @@ The single-FTU vantage describes creases, c-order, action, and internal event ge
 
 | File | Purpose |
 |---|---|
-| [`PMM3_7_1.md`](./PMM3_7_1.md) | Canonical manuscript |
-| [`PMM3_7_1.pdf`](./PMM3_7_1.pdf) | Technical PDF compiled from the LaTeX source, with integrated contents and bookmarks |
-| [`PMM_First_Principles_3_7_1.html`](./PMM_First_Principles_3_7_1.html) | Medium paste-ready edition |
-| [`CHANGELOG.md`](./CHANGELOG.md) | Major changes from v3.6.0 to v3.7.1 |
-| [`ROADMAP.md`](./ROADMAP.md) | Forward research priorities and open derivations |
+| [`PMM3_7_3.md`](./PMM3_7_3.md) | Canonical manuscript |
+| [`PMM_Recovery_3_7_3.md`](./PMM_Recovery_3_7_3.md) | Recovery and correspondence tests |
+| [`PMM_Predictions_3_7_3.md`](./PMM_Predictions_3_7_3.md) | Predictions, falsification tests and candidate decisions |
+| [`PMM3_7_3.pdf`](./PMM3_7_3.pdf) | Technical PDF generated with integrated contents and bookmarks |
 
+## Links
 
+- [Scott Gehring Physics](https://scott-gehring.com/physics/)
+- [Phase Manifold Model on Medium](https://medium.com/phase-manifold-model)
+- [Ask the PMM GPT](https://chatgpt.com/g/g-6a626ae1de808191af1eb15587dba424-phase-manifold-model-pmm)
 ## Links
 
 - [Scott Gehring Physics](https://scott-gehring.com/physics/)

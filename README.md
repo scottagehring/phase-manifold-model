@@ -4,20 +4,20 @@
 
 The **Phase Manifold Model (PMM)** proposes an underlying event architecture connecting quantum mechanics (QM), general relativity (GR), and information theory (IT). It describes one physical event through Before (B), During (D), and After (A). One complete event is a **Field Transition Unit (FTU)**.
 
-Version **3.7.4** adds the **Angular Temporal Recursion Principle**: completed, causally prior Afters contribute through accumulated record history Φ to the Before possibilities of subsequent events. Individual FTUs retain their B → D → A progression; coherent history contributions can interfere when relative phase is preserved.
+Version **3.7.5** restores the candidate **FTU Action Cube** under Fₜᵤˢ and names the separate additive accounting **FTU Action Ledger**, Fₜᵤˡᵉᵈ. Both act on the existing phase-action tuple and have distinct units. The Angular Temporal Recursion Principle introduced in 3.7.4 is retained.
 
 ## Current release
 
 | Item | Details |
 |---|---|
-| Version | **3.7.4** |
-| Core revision | **v71.34** |
-| Release date | **October 10, 2026** |
+| Version | **3.7.5** |
+| Core revision | **v71.35** |
+| Release date | **October 19, 2026** |
 | Author | **Scott Gehring**, Independent Researcher |
 | ORCID | [0009-0007-6351-637X](https://orcid.org/0009-0007-6351-637X) |
 | License | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
 
-[Read the canonical manuscript](./PMM3_7_4.md) · [Download the technical PDF](./PMM3_7_4.pdf) · [Read the First Principles summary](./PMM_First_Principles_3_7_4.md) · [Download the short PDF](./PMM_First_Principles_3_7_4.pdf)
+[Read the canonical manuscript](./PMM3_7_5.md) · [Download the technical PDF](./PMM3_7_5.pdf) · [Read the First Principles summary](./PMM_First_Principles_3_7_5.md) · [Download the short PDF](./PMM_First_Principles_3_7_5.pdf)
 
 ## Purpose
 
@@ -51,9 +51,13 @@ The readout tuples organize how potential, realization, and record describe the 
 | Time | Fₜᵤᵀ = (Tᴮ,Tᴰ,Tᴬ) |
 | Mass | Fₜᵤᴹ = (mₚ,Eᴰ/c²,ℏωᴬ/c²) |
 | Energy | Fₜᵤᴱ = (mₚc²,Eᴰ,ℏωᴬ) |
-| Action ledger | Fₜᵤˢ = Sᴮ + Sᴰ + Sᴬ |
+| Action Cube | Fₜᵤˢ = SᴮSᴰSᴬ, units (J·s)³ |
+| Action Ledger | Fₜᵤˡᵉᵈ = Sᴮ + Sᴰ + Sᴬ, units J·s |
+| Phase-Action Vector | Fₜᵤˢᵛ = (Sᴮ,Sᴰ,Sᴬ) |
 
 Action provides a common phase measure: Sᴮ = ℏΔθᴮ, Sᴰ = ℏθᴰ, and Sᴬ = ℏΔθᴬ. The Core specifies the temporal readouts and distinguishes adopted definitions from candidate B/A span assignments. The tuples organize quantities; they do not alone determine interaction dynamics.
+
+The Action Cube is a candidate coordinate-box readout, not a derived physical volume or closure count. Its probability dependence, P = 1 degeneracy, and open metric/physical role are detailed in Core §4.1.1. Fₜᵤᴸ remains reserved for length.
 
 ## Central principles
 
@@ -83,18 +87,17 @@ The native history-to-B generation law, coherent phase preservation, interaction
 
 | File | Purpose |
 |---|---|
-| [PMM3_7_4.md](./PMM3_7_4.md) | Canonical technical manuscript, Core v71.34 |
-| [PMM3_7_4.pdf](./PMM3_7_4.pdf) | Technical PDF with contents and bookmarks |
-| [PMM_First_Principles_3_7_4.md](./PMM_First_Principles_3_7_4.md) | Short introduction organized around goals, contact, readouts, and central principles |
-| [PMM_First_Principles_3_7_4.pdf](./PMM_First_Principles_3_7_4.pdf) | Short First Principles PDF |
-| [PMM_First_Principles_3_7_4.html](./PMM_First_Principles_3_7_4.html) | HTML edition of the short summary |
-| [PMM_Recovery_3_7_4.md](./PMM_Recovery_3_7_4.md) | Recovery v1.19, including detailed supporting EM and video studies |
-| [PMM_Predictions_3_7_4.md](./PMM_Predictions_3_7_4.md) | Predictions v1.24, falsification tests, and candidate decisions |
+| [PMM3_7_5.md](./PMM3_7_5.md) | Canonical technical manuscript, Core v71.35 |
+| [PMM3_7_5.pdf](./PMM3_7_5.pdf) | Technical PDF with contents and bookmarks |
+| [PMM_First_Principles_3_7_5.md](./PMM_First_Principles_3_7_5.md) | Short introduction organized around goals, contact, readouts, and central principles |
+| [PMM_First_Principles_3_7_5.pdf](./PMM_First_Principles_3_7_5.pdf) | Short First Principles PDF |
+| [PMM_Recovery_3_7_5.md](./PMM_Recovery_3_7_5.md) | Recovery v1.20, including detailed supporting EM and video studies |
+| [PMM_Predictions_3_7_5.md](./PMM_Predictions_3_7_5.md) | Predictions v1.25, falsification tests, and candidate decisions |
 | [CHANGELOG.md](./CHANGELOG.md) | Package revision history |
-| [SHA256SUMS_3_7_4.txt](./SHA256SUMS_3_7_4.txt) | SHA-256 file-integrity manifest |
+
+The standard PDF filenames now contain the LaTeX-typeset editions. Markdown remains the content source.
 
 ## Links
 
 - [Scott Gehring Physics](https://scott-gehring.com/physics/)
 - [Phase Manifold Model on Medium](https://medium.com/phase-manifold-model)
-- [Ask the PMM GPT](https://chatgpt.com/g/g-6a626ae1de808191af1eb15587dba424-phase-manifold-model-pmm)

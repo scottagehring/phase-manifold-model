@@ -46,7 +46,7 @@ The readout tuples organize how potential, realization, and record describe the 
 
 | Readout | Expression |
 |---|---|
-| c-order | Fₜᵤᶜ = ((c⁰)ₘₚ, (c¹,c²)c, (c³)k_B) |
+| c-order | Fₜᵤᶜ = ((c⁰)ₘₚ, (c¹,c²)c, (c³)ₖᵦ) |
 | Spatial | Fₜᵤˣʸ = (ψ(x,y,z), xyz, xy) |
 | Time | Fₜᵤᵀ = (Tᴮ,Tᴰ,Tᴬ) |
 | Mass | Fₜᵤᴹ = (mₚ,Eᴰ/c²,ℏωᴬ/c²) |

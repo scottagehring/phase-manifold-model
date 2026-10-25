@@ -4,7 +4,7 @@
 
 The **Phase Manifold Model (PMM)** proposes an underlying event architecture connecting quantum mechanics (QM), general relativity (GR), and information theory (IT). It describes one physical event through Before (B), During (D), and After (A). One complete event is a **Field Transition Unit (FTU)**.
 
-Version **3.7.6** adds an explicit **FTU∞ relational contact construction**, an **A-phase information-capacity readout**, a **Recovery Summary**, and **Predictions and Falsification Tests** within the technical manuscript. It retains the candidate **FTU Action Cube**, the separate **FTU Action Ledger**, and the Angular Temporal Recursion Principle. The release contains one manuscript in two forms: canonical Unicode Markdown and a LaTeX-typeset PDF.
+Version **3.7.6** adds an explicit **FTU∞ relational contact construction**, an **A-phase information-capacity readout**, a **Recovery Summary**, and **Predictions and Falsification Tests** within the technical manuscript. It retains the candidate **FTU Action Cube**, the separate **FTU Action Ledger**, and the Angular Temporal Recursion Principle. The release contains the canonical manuscript in two forms, Unicode Markdown and a LaTeX-typeset PDF, together with a First Principles summary.
 
 ## Current release
 
@@ -17,7 +17,7 @@ Version **3.7.6** adds an explicit **FTU∞ relational contact construction**, a
 | ORCID | [0009-0007-6351-637X](https://orcid.org/0009-0007-6351-637X) |
 | License | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
 
-[Read the canonical manuscript](./PMM3_7_6.md) · [Download the technical PDF](./PMM3_7_6.pdf)
+[Read the canonical manuscript](./PMM3_7_6.md) · [Download the technical PDF](./PMM3_7_6.pdf) · [Read the First Principles summary](./PMM_First_Principles_3_7_6.md)
 
 ## Core formulation
 
@@ -85,8 +85,9 @@ The native history-to-B generation law, coherent phase preservation, interaction
 |---|---|
 | [PMM3_7_6.md](./PMM3_7_6.md) | Canonical Unicode technical manuscript, revision v21 |
 | [PMM3_7_6.pdf](./PMM3_7_6.pdf) | LaTeX-typeset technical manuscript with title page, linked contents, and bookmarks |
+| [PMM_First_Principles_3_7_6.md](./PMM_First_Principles_3_7_6.md) | First Principles overview of the FTU family and event architecture |
 
-The release consists only of these two manuscript files. The Markdown is the canonical content source; the PDF is the typeset reading edition. Companion studies, separate summaries, LaTeX source, build tools, and generated support files are not part of the release.
+The release includes the two technical manuscript editions and the First Principles summary. The technical Markdown is the canonical content source; the PDF is the typeset reading edition. Companion studies, LaTeX source, build tools, and generated support files are not part of the release.
 
 ## Changes from 3.7.5
 
@@ -95,7 +96,7 @@ The release consists only of these two manuscript files. The Markdown is the can
 - **Recovery Summary:** brings the status of established-physics correspondences, conditional constructions, and open derivations into the manuscript, including Born weighting and A-phase capacity.
 - **Predictions and Falsification Tests:** states a₀ᴾᴹᴹ(t) = cH(t)/(2π), the Hubble-horizon versus constant-Λ redshift discriminator, and the residual diagnostic C_a,obs. Reconciliation with the event-level A-phase rate remains open.
 - **Architectural clarity:** sharpens the event narrative, the relationship between single-FTU and multi-FTU vantages, the comparison-time Mₒₚ readout, and the distinction between the D-space access window and underlying internal geometry.
-- **Publication format:** replaces the multi-file 3.7.5 package with the two manuscript editions. The PDF includes a title page and linked table of contents, with the body beginning on a separate page.
+- **Publication format:** replaces the multi-file 3.7.5 package with the two technical manuscript editions and a First Principles summary. The PDF includes a title page and linked table of contents, with the body beginning on a separate page.
 
 ## LaTeX edition
 

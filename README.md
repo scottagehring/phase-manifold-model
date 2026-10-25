@@ -4,24 +4,20 @@
 
 The **Phase Manifold Model (PMM)** proposes an underlying event architecture connecting quantum mechanics (QM), general relativity (GR), and information theory (IT). It describes one physical event through Before (B), During (D), and After (A). One complete event is a **Field Transition Unit (FTU)**.
 
-Version **3.7.5** restores the candidate **FTU Action Cube** under Fₜᵤˢ and names the separate additive accounting **FTU Action Ledger**, Fₜᵤˡᵉᵈ. Both act on the existing phase-action tuple and have distinct units. The Angular Temporal Recursion Principle introduced in 3.7.4 is retained.
+Version **3.7.6** adds an explicit **FTU∞ relational contact construction**, an **A-phase information-capacity readout**, a **Recovery Summary**, and **Predictions and Falsification Tests** within the technical manuscript. It retains the candidate **FTU Action Cube**, the separate **FTU Action Ledger**, and the Angular Temporal Recursion Principle. The release contains one manuscript in two forms: canonical Unicode Markdown and a LaTeX-typeset PDF.
 
 ## Current release
 
 | Item | Details |
 |---|---|
-| Version | **3.7.5** |
-| Core revision | **v71.35** |
-| Release date | **October 19, 2026** |
+| Version | **3.7.6** |
+| Revision | **v21** |
+| Release date | **October 24, 2026** |
 | Author | **Scott Gehring**, Independent Researcher |
 | ORCID | [0009-0007-6351-637X](https://orcid.org/0009-0007-6351-637X) |
 | License | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
 
-[Read the canonical manuscript](./PMM3_7_5.md) · [Download the technical PDF](./PMM3_7_5.pdf) · [Read the First Principles summary](./PMM_First_Principles_3_7_5.md) · [Download the short PDF](./PMM_First_Principles_3_7_5.pdf)
-
-## Purpose
-
-PMM's primary goal is to provide the connecting event architecture. Its secondary goal is to investigate manipulation of force through depth. Solving known physics problems is a further possible outcome of these goals. Force control remains a research objective.
+[Read the canonical manuscript](./PMM3_7_6.md) · [Download the technical PDF](./PMM3_7_6.pdf)
 
 ## Core formulation
 
@@ -46,12 +42,12 @@ The readout tuples organize how potential, realization, and record describe the 
 
 | Readout | Expression |
 |---|---|
-| c-order | Fₜᵤᶜ = ((c⁰)ₘₚ, (c¹,c²)c, (c³)ₖᵦ) |
+| c-order | Fₜᵤᶜ = ((c⁰)ₘₚ, (c¹,c²)c, (c³)k_B) |
 | Spatial | Fₜᵤˣʸ = (ψ(x,y,z), xyz, xy) |
 | Time | Fₜᵤᵀ = (Tᴮ,Tᴰ,Tᴬ) |
 | Mass | Fₜᵤᴹ = (mₚ,Eᴰ/c²,ℏωᴬ/c²) |
 | Energy | Fₜᵤᴱ = (mₚc²,Eᴰ,ℏωᴬ) |
-| Action Cube | Fₜᵤˢ = SᴮSᴰSᴬ, units (J·s)³ |
+| Action Cube | Fₜᵤˢ = SᴮSᴰSᴬ, candidate; units (J·s)³ |
 | Action Ledger | Fₜᵤˡᵉᵈ = Sᴮ + Sᴰ + Sᴬ, units J·s |
 | Phase-Action Vector | Fₜᵤˢᵛ = (Sᴮ,Sᴰ,Sᴬ) |
 
@@ -81,19 +77,38 @@ Fₜᵤᴳ = ∇φ
 g = c²∇φ
 ```
 
-The native history-to-B generation law, coherent phase preservation, interaction dynamics, and active-source extraction remain research targets. Recovery distinguishes conditional correspondence from imported-physics compatibility; Predictions identifies prospective tests and rejected candidates. Detailed electromagnetic, information-reconstruction, and video studies are included in the Recovery file.
+The native history-to-B generation law, coherent phase preservation, interaction dynamics, and active-source extraction remain research targets. The manuscript's Recovery Summary distinguishes conditional correspondence from open derivations. Detailed companion research documents are maintained separately and are not included in this release.
 
 ## Release package
 
 | File | Purpose |
 |---|---|
-| [PMM3_7_5.md](./PMM3_7_5.md) | Canonical technical manuscript, Core v71.35 |
-| [PMM3_7_5.pdf](./PMM3_7_5.pdf) | Technical PDF with contents and bookmarks |
-| [PMM_First_Principles_3_7_5.md](./PMM_First_Principles_3_7_5.md) | Short introduction organized around goals, contact, readouts, and central principles |
-| [PMM_First_Principles_3_7_5.pdf](./PMM_First_Principles_3_7_5.pdf) | Short First Principles PDF |
-| [PMM_Recovery_3_7_5.md](./PMM_Recovery_3_7_5.md) | Recovery v1.20, including detailed supporting EM and video studies |
-| [PMM_Predictions_3_7_5.md](./PMM_Predictions_3_7_5.md) | Predictions v1.25, falsification tests, and candidate decisions |
-| [CHANGELOG.md](./CHANGELOG.md) | Package revision history |
+| [PMM3_7_6.md](./PMM3_7_6.md) | Canonical Unicode technical manuscript, revision v21 |
+| [PMM3_7_6.pdf](./PMM3_7_6.pdf) | LaTeX-typeset technical manuscript with title page, linked contents, and bookmarks |
+
+The release consists only of these two manuscript files. The Markdown is the canonical content source; the PDF is the typeset reading edition. Companion studies, separate summaries, LaTeX source, build tools, and generated support files are not part of the release.
+
+## Changes from 3.7.5
+
+- **FTU∞ contact construction:** adds the exchange-even and exchange-odd tensor decomposition and an explicit candidate realization map to the existing two-vantage D geometry (§20.1.1). One actualized pair contact remains one FTU.
+- **A-phase information capacity:** adds the rail-area readout Fₜᵤᴬ = ρ₁ρ₂ = (zᴰ)² and the horizon-normalized capacity H_max = Fₜᵤᴬ/(4ℓₚ² ln2), distinguishing the imported normalization from its general FTU correspondence (§25.3).
+- **Recovery Summary:** brings the status of established-physics correspondences, conditional constructions, and open derivations into the manuscript, including Born weighting and A-phase capacity.
+- **Predictions and Falsification Tests:** states a₀ᴾᴹᴹ(t) = cH(t)/(2π), the Hubble-horizon versus constant-Λ redshift discriminator, and the residual diagnostic C_a,obs. Reconciliation with the event-level A-phase rate remains open.
+- **Architectural clarity:** sharpens the event narrative, the relationship between single-FTU and multi-FTU vantages, the comparison-time Mₒₚ readout, and the distinction between the D-space access window and underlying internal geometry.
+- **Publication format:** replaces the multi-file 3.7.5 package with the two manuscript editions. The PDF includes a title page and linked table of contents, with the body beginning on a separate page.
+
+## LaTeX edition
+
+- [Technical manuscript typeset in LaTeX](./PMM3_7_6.pdf)
+
+The PDF converts Unicode mathematical notation to LaTeX typesetting. Typography corrections are confined to the PDF conversion; the canonical Unicode Markdown is preserved.
+
+## Links
+
+- [Scott Gehring Physics](https://scott-gehring.com/physics/)
+- [Phase Manifold Model on Medium](https://medium.com/phase-manifold-model)
+- [Ask the PMM GPT](https://chatgpt.com/g/g-6a626ae1de808191af1eb15587dba424-phase-manifold-model-pmm)
+
 
 The standard PDF filenames now contain the LaTeX-typeset editions. Markdown remains the content source.
 

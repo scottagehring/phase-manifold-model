@@ -2,17 +2,21 @@
 
 > **Time is angular. Space is emergent relational motion. Depth is different. c is stillness.**
 
-The **Phase Manifold Model (PMM)** proposes that physical reality develops through events: a possibility becomes an interaction, and the completed interaction leaves a record. Those records contribute to the possibilities of later events.
+The **Phase Manifold Model (PMM)** describes physical reality through events: a possibility becomes an interaction, and the completed interaction leaves a record. PMM relates this event sequence to quantum mechanics, general relativity, and information theory.
 
-PMM calls these stages Before, During, and After. One complete event is a Field Transition Unit (FTU). PMM relates this event sequence to quantum mechanics, general relativity, and information theory.
+The **phase manifold** is the connected geometry of an event's passage through Before, During, and After. “Phase” names these conditions of the event; “manifold” names the geometry connecting them. One complete passage is a Field Transition Unit (FTU).
 
-## The phase manifold
+Before contains the possibilities for an interaction, including potential spatial relationships.
 
-The **phase manifold** is the connected geometry through which PMM describes an event’s passage from possibility to realization to retained record. Before, During, and After are its three phases. One complete passage through them is a Field Transition Unit.
+During is the realized interaction. Its two internal planar vantages realize active three-dimensional space, with motion and angular progression within the event.
 
-Its geometry extends across the whole event, while active three-dimensional space exists during the During phase. Before carries possible spatial relationships; During realizes them through its two internal vantages; After retains the completed result as information.
+After retains the completed result as information. The event's active geometry ends, while its record persists.
 
-“Phase” names these different conditions of the event. “Manifold” names the connected geometry that holds their relationships together. Across multiple FTUs, completed records accumulate in Φ and condition subsequent events, connecting individual event passages into an ongoing physical history.
+Each elementary pair interaction is one FTU involving both participants. At completion, each participant receives its own record, with both records referring to one event identity and one event-level source energy.
+
+Completed records accumulate in Φ and condition subsequent events, connecting individual event passages into an ongoing physical history:
+
+Before → During → After → accumulated history → next Before
 
 ## Start reading
 
@@ -20,18 +24,6 @@ Its geometry extends across the whole event, while active three-dimensional spac
 - [Technical PDF](./PMM3_7_7.pdf): read the full manuscript with typeset mathematics, linked contents, and bookmarks.
 - [Technical Markdown](./PMM3_7_7.md): the master text for this release.
 - [Release notes](./PMM_RELEASE_NOTES.md): release scope, scientific status, and package contents.
-
-## The basic idea
-
-**Before → During → After → accumulated history → next Before**
-
-**Before** contains the possibilities for an interaction. Spatial relationships have potential form.
-
-**During** is the realized interaction. PMM places active space, motion, and the event's angular progression here.
-
-**After** retains the completed result. The event's active geometry ends; information about it persists.
-
-Each elementary pair interaction is one event involving both participants. At completion, each participant receives its own record. The two records share one event identity and one event-level source energy.
 
 ## Central principles
 
